@@ -1,0 +1,3 @@
+-r requirements-server.txt
+pandas
+pre-commit
